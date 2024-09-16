@@ -1,4 +1,4 @@
-👋 Salut, je suis [Ton Prénom]
+👋 Salut, je suis Maxime BOURCIEZ
 
 Développeur en Informatique | Étudiant BUT Informatique à l'IUT de Bayonne
 À propos de moi
