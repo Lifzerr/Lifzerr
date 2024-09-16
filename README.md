@@ -1,43 +1,41 @@
-👋 Hi, I'm [Your Name]
+👋 Salut, je suis [Ton Prénom]
 
-Computer Science Developer | BUT Informatique Student at IUT de Bayonne
-About Me
+Développeur en Informatique | Étudiant BUT Informatique à l'IUT de Bayonne
+À propos de moi
 
-I am passionate about computer science, currently in my second year of the BUT Informatique program at IUT de Bayonne. Through my academic journey and personal projects, I have gained solid skills in web development, particularly with the following languages:
+Je suis passionné par l'informatique, actuellement en deuxième année du BUT Informatique à l'IUT de Bayonne. Grâce à mon parcours académique et mes projets personnels, j'ai acquis des compétences solides en développement web, notamment avec les langages suivants :
 
     HTML5, CSS3
-    JavaScript 
-    PHP
+    JavaScript (React, Node.js)
     Python
+    Java
     C/C++
 
-🎯 Career Objective: I am looking for a full-time internship starting June 17, 2024, until August 25, 2024. I am eager to contribute to real-world projects while continuing to learn and deepen my technical skills.
-🌱 Currently Learning
+🎯 Objectif Professionnel : Je recherche un stage à temps plein à partir du 7 avril 2025, jusqu'au 13 juin 2025. Je suis motivé par l'idée de contribuer à des projets concrets tout en continuant d'apprendre et d'approfondir mes compétences techniques. Je suis aussi ouvert pour une alternance, idéalement en développement web (fullstack) !
+🌱 Actuellement j'apprends
 
-    Web application development with HTML, CSS, JS & PHP
-    Object-oriented programming in c++
-    
+    Développement d'applications web en HTML, CSS, JS & PHP
+    Programmation orientée objets en C++
+    Méthodes agiles (notamment SCRUM)
 
-💼 Professional Experience
+💼 Expérience professionnelle
 
-        Web Development Internship: [Company Name]
-        Built a dynamic website using HTML, CSS, JavaScript.
-        Integrated a REST API to fetch real-time data.
+    Mise en rayon - E. Leclerc Urrugne - Eté 2023
+    Ouvrier de préparation peinture - EPTA France, Hendaye - Eté 2024
 
-🚀 Recent Projects
+🚀 Projets récents
 
-    [Project Name 1]: A task management web application built with React and Node.js. [Link to project]
-    [Project Name 2]: A basic search engine developed in Java. [Link to project]
+    Tous mes projets récents sont visibles sur mon profil, n'hésitez pas à aller faire un tour !
 
-🌍 Languages I Speak
+🌍 Langues parlées
 
-    French: Native speaker
-    English: Fluent
-    Spanish: B2 level
+    Français : Langue maternelle
+    Anglais : Niveau B2
+    Espagnol : Niveau B2
 
-💬 Contact Me
+💬 Me contacter
 
-    LinkedIn: [Your LinkedIn link]
-    Email: [Your professional email]
+    LinkedIn : https://www.linkedin.com/in/maxime-bourciez-72aa0b2b3/
+    Email : maxime.bourciez@gmail.com
 
-Feel free to explore my repositories and contact me if you'd like to connect!
+N'hésitez pas à explorer mes dépôts et à me contacter si vous souhaitez échanger !
