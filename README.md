@@ -6,9 +6,9 @@ Développeur en Informatique | Étudiant BUT Informatique à l'IUT de Bayonne
 Je suis passionné par l'informatique, actuellement en deuxième année du BUT Informatique à l'IUT de Bayonne. Grâce à mon parcours académique et mes projets personnels, j'ai acquis des compétences solides en développement web, notamment avec les langages suivants :
 
     HTML5, CSS3
-    JavaScript (React, Node.js)
+    JavaScript 
+    PHP
     Python
-    Java
     C/C++
 
 🎯 Objectif Professionnel : Je recherche un stage à temps plein à partir du 7 avril 2025, jusqu'au 13 juin 2025. Je suis motivé par l'idée de contribuer à des projets concrets tout en continuant d'apprendre et d'approfondir mes compétences techniques. Je suis aussi ouvert pour une alternance, idéalement en développement web (fullstack) !
