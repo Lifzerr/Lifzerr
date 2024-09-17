@@ -1,6 +1,7 @@
 👋 Salut, je suis Maxime BOURCIEZ
 
 Développeur en Informatique | Étudiant BUT Informatique à l'IUT de Bayonne
+
 À propos de moi
 
 Je suis passionné par l'informatique, actuellement en deuxième année du BUT Informatique à l'IUT de Bayonne. Grâce à mon parcours académique et mes projets personnels, j'ai acquis des compétences solides en développement web, notamment avec les langages suivants :
